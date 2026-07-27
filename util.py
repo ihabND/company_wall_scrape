@@ -1,6 +1,6 @@
 import re
 
-PROXY_URL = "http://USERNAME:PASSWORD@PROXY_HOST:PORT"
+PROXY_URL = 
 
 BASE = "https://www.companywall.rs"
 URL = "https://www.companywall.rs/pretraga?cr=RSD&n=&mv=&r=103&c=176&cp=&at=&area=1884&subarea=-1&sbjact=t&blckd=&dbf=&dbt=&type=&hr=&bly=2024&dsm%5B0%5D.Code=1101&dsm%5B0%5D.From=0&dsm%5B0%5D.To=0&dsm%5B1%5D.Code=966&dsm%5B1%5D.From=0&dsm%5B1%5D.To=0&dsm%5B-1%5D.Code=0&dsm%5B-1%5D.From=0&dsm%5B-1%5D.To=0&distinctcodes=&xpnd=true"
